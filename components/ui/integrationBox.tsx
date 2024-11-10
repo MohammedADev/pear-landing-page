@@ -39,31 +39,31 @@ const INTEGRATIONS = [
   {
     marginLeft: "ml-0",
     label: "Search with",
-    product: "Perplexity",
+    product: "Perplexity*",
     Icon: PerplexityLogo,
   },
   {
     marginLeft: "ml-24",
     label: "Remember with",
-    product: "MemO",
+    product: "MemO*",
     Icon: Mem0Logo,
   },
   {
     marginLeft: "ml-40",
     label: "Predict with",
-    product: "Supermaven",
+    product: "Supermaven*",
     Icon: SupermavenLogo,
   },
   {
     marginLeft: "ml-48",
     label: "Ship with",
-    product: "Aider",
+    product: "Aider*",
     Icon: AiderLogo,
   },
   {
     marginLeft: "ml-32",
     label: "Chat with",
-    product: "Continue",
+    product: "Continue*",
     Icon: ContinueLogo,
   },
 ];

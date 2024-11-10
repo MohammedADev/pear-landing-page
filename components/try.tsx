@@ -51,6 +51,18 @@ export default function TryPear() {
           </div>
         </div>
       </div>
+      <div className="mx-auto mt-10 max-w-3xl px-6 text-center">
+        <p className="text-sm text-gray-500">
+          Please check our{" "}
+          <Link
+            href="/disclaimer"
+            className="text-emerald-500 hover:text-emerald-400"
+          >
+            disclaimer page
+          </Link>{" "}
+          for more information.
+        </p>
+      </div>
     </section>
   );
 }
